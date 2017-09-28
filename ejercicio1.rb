@@ -7,7 +7,7 @@ class Alumno
     @nota3 = nota3
     @nota4 = nota4
   end
-
+  
   def self.read_file(filename = 'notas.txt')
     alumnos = []
     data = []
