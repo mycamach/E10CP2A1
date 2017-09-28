@@ -62,6 +62,7 @@ r1 = Rectangulo.new(10, 4)
 print r1.sides
 print r1.perimeter
 print r1.area
-=begin cuando c1 llama a perimeter, el self del método devuelve
+=begin
+cuando c1 llama a perimeter, el self del método devuelve
 la clase de c1 (o sea, Cuadrado)
 =end
